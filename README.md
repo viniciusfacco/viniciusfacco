@@ -1,3 +1,6 @@
+![](hello_world.png)
+![GitHub Views](https://komarev.com/ghpvc/?username=viniciusfacco)
+
 ### Hi there 👋
 ### I'm Vinicius, welcome to my profile!
 
