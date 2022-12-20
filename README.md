@@ -4,11 +4,11 @@
 ### Hi there 👋
 ### I'm Vinicius, welcome to my profile!
 
-### I'm a computer scientist researcher and developer from Brazil 📍
+### I'm a computer scientist researcher and software developer from Brazil 📍
 
 - 🔭 I’m currently working on university research projects for external companies, and also lots of research articles
 - 📖 I have a Doctorate and Master's degree in applied computing, working with high-performance systems, computer networks, and distributed systems
-- 🌱 I’m currently learning Front-end technologies
+- 🌱 I’m currently learning Front-end technologies and IPFS 
 
 ![yeah, science!](https://c.tenor.com/CughyuQS8XIAAAAC/breakingbad-science.gif)
 
