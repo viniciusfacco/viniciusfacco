@@ -6,7 +6,7 @@
 
 ### I'm a computer scientist researcher and software developer from Brazil 📍
 
-- 🔭 I’m currently working on university research projects for external companies, and also lots of research articles
+- 🔭 I’m currently employed at Dell Technologies as an Engineering Technologist
 - 📖 I have a Doctorate and Master's degree in applied computing, working with high-performance systems, computer networks, and distributed systems
 - 🌱 I’m currently learning Front-end technologies and IPFS 
 
